@@ -1,0 +1,92 @@
+#submit1 {
+    width: 115px;
+    height: 36px;
+    background-color: #FFD43A;
+    font-size: 15px;
+    font-weight: 500;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+#submit2 {
+    width: 285px;
+    height: 36px;
+    background-color: #000000;
+    color: #FFFFFF;
+    font-size: 15px;
+    font-weight: 500;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+#submit3 {
+    width: 336px;
+    height: 36px;
+    background-color: #B43AFF;
+    color: #FFFFFF;
+    font-size: 15px;
+    font-weight: 500;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+#submit4 {
+    width: 441px;
+    height: 36px;
+    background-color: #E9E9E9;
+    font-size: 15px;
+    font-weight: 500;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+#submit5 {
+    width: 559px;
+    height: 36px;
+    background-color: #FFD43A;
+    font-size: 15px;
+    font-weight: 500;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+#submit1:hover {
+    background-color: #8CFF98;
+    color: #000000;
+}
+
+#submit2:hover {
+    background-color: #D3D3D3;
+    color: #000000;
+}
+
+#submit3:hover {
+    background-color: #FF3AE0;
+    color: #FFFFFF;
+}
+
+#submit4:hover {
+    background-color: #ABABAB;
+    color: #000000;
+    font-size: 18px;
+    border-radius: 2px;
+}
+
+#submit5:hover {
+    width: 588px;
+    height: 58px;
+    font-size: 20px;
+    border-radius: 30px;
+    background-color: #FFD43A;
+    color: #000000;
+}
